@@ -29,6 +29,14 @@ RISK_KEYWORDS = [
     "Pack-off",
     "Kick",
     "Well control",
+    "Slow drill-ability",
+    "losses",
+    "Differential",
+    "Wellbore instability",
+    "Directional control",
+    "Well control",
+    "Stick Slip",
+    "Shallow Gas Influx"
 ]
 
 
